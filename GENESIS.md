@@ -5,7 +5,7 @@ The genesis block of vUnits is more than complex than other genesis blocks becau
 # Licensed Emitter (LE)
 
 - DIGEX Inc.
-- CME-Commerce Solution ltd.
+- CME-Commerce Solution Ltd.
 - OPM Gold LP
 
 # Licensed Precious Metal Dealer (LPMD)
