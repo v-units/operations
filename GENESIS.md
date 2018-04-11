@@ -21,7 +21,7 @@ None defined at the moment yet.
 
 # Miners
 
-The miners will need to request an identity certificate from an Licensed Certification Authority (LCA). DIGEX Inc. will be the only activated LCA on the Genesis Block.
+The miners will need to request an identity certificate from an Licensed Certification Authority (LCA). DIGEX Inc. is the only LCA that has currently the capabilities to emit identity certificates, so these will only be supported in the Genesis Block.
 
 # Genesis Block Key Information (As of 11.04.2018)
 
